@@ -8,4 +8,4 @@ function solucao(letra, palavras) {
        }
    }
     console.log(perdeu)
-}
+};
