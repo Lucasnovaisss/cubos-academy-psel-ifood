@@ -26,4 +26,4 @@ function solucao(joao, andre) {
             console.log("EMPATE")
         }
     }
-}
+};
