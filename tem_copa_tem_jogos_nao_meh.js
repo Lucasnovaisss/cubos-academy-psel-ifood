@@ -8,4 +8,4 @@ function solucao(ano) {
     } else {
         console.log("MEH")
     }
-}
+};
