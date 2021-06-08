@@ -6,4 +6,4 @@ function solucao(idade) {
       } else {
           console.log("ACESSO NEGADO")
       }
-  }
+  };
